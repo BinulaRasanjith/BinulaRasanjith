@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hi I'm Binula Rasanjith 👋
 
-<!--
-**BinulaRasanjith/BinulaRasanjith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://skillicons.dev/icons?i=js,react,js,react,js,react,js,react,js,react,express" alt="skills logos" /> <br>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ✨ GitHub Profile Trophies ✨
+
+![](https://github-profile-trophy.vercel.app/?username=BinulaRasanjith&column=7)
+
+### ✨ GitHub Details ✨
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BinulaRasanjith&theme=transparent)
+<br>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BinulaRasanjith&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BinulaRasanjith&theme=transparent)
