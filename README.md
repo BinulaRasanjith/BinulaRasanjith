@@ -10,7 +10,7 @@
 
 ### ⭐ Languages and Skills ⭐
 <p align="center"> 
-<img src="https://skillicons.dev/icons?i=js,ts,c,cpp,py,nodejs,java,kotlin,dart,r,octave,php,scala,html,css,tailwind,react,express,threejs,redux,materialui,sequelize,flutter,vscode,postman,mysql,postgres,mongodb,mysql,postgresql,git,github,figma" alt="skills logos" /> <br>
+<img src="https://skillicons.dev/icons?i=js,ts,c,cpp,py,nodejs,java,kotlin,dart,r,octave,php,scala,html,css,tailwind,react,express,threejs,redux,materialui,sequelize,flutter,vscode,postman,mysql,postgres,mongodb,git,github,figma" alt="skills logos" /> <br>
 </p>
 <!--
 <br>
